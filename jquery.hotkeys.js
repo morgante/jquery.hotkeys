@@ -199,4 +199,4 @@
     };
   });
 
-})(this.jQuery);
+})(this.jQuery || window.jQuery);
